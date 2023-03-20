@@ -1,3 +1,3 @@
 # HipPelvisAnnotator
 
-See demo of working model at: [DEMO LINK](demo.osail.ai/PelvisAnnotator)
+See demo of working model at: [DEMO LINK](https://demo.osail.ai/PelvisAnnotator)
